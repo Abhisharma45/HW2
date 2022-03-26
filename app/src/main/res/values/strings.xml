@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Metric Conversion</string>
+    <string name="metric1">Currency $->€, ₹, A$, C$</string>
+    <string name="metric2">Temperature F->C,K</string>
+    <string name="metric3">Weight: £->kg,g,oz</string>
+    <string name="metric4">miles->km,m,ft,in</string>
+
+    <string name="hint1">Enter the currency in US dollars</string>
+    <string name="hint2">Enter the temperature in fahrenheit </string>
+    <string name="hint3">Enter the weight in pounds</string>
+    <string name="hint4">Enter the distance in miles</string>
+
+
+</resources>
